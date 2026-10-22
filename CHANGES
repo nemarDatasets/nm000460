@@ -1,3 +1,6 @@
+1.0.3 2026-10-21
+  - channels.tsv units from Self et al. 2016 S1 Fig: LFP and MUA µV, MUAT Hz (spike density). README and curvetracing MUA descriptions note that CURVET.mat MUA is baseline-subtracted.
+
 1.0.2 2026-10-16
   - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
 
